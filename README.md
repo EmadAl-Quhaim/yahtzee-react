@@ -8,6 +8,21 @@
 
 ![screenshot](./screenshot.png)
 
+## How to play the Game?
+
+You have two options to play the game:
+
+1. Use [this link](https://emadal-quhaim.github.io/yahtzee-react/) to the game on emadal-quhaim.github.io OR
+
+2. By cloning this project:
+    - Clone the project: `git clone https://github.com/EmadAl-Quhaim/yahtzee-react.git`;
+    - Go to the project folder: `cd yahtzee-react`;
+    - Download the dependencies: `npm install`;
+    - Start the application: `npm start`.
+    - It will open a browser page (if it doesn't, go to [http://localhost:3000](http://localhost:3000/)).
+
+Then you can start playing. Good luck!
+
 ## Built with
 
 - ReactJS
@@ -15,4 +30,4 @@
 
 ## Acknowledgement
 
-- The User Interface is inspired inspired by the project [react-yahtzee-game](https://github.com/kens-visuals/react-yahtzee-game) by [@kens-visuals](https://github.com/kens-visuals).
+- The User Interface is inspired by the project [react-yahtzee-game](https://github.com/kens-visuals/react-yahtzee-game) by [@kens-visuals](https://github.com/kens-visuals).
